@@ -1,0 +1,501 @@
+Order_ID,Order_Date,Category,Product,Quantity,Unit_Price,Discount,City,Sales_Channel,Payment_Method,Revenue,Customer_Rating
+ORD0001,2026-07-05,Electronics,Smart Watch,4.0,4921.94125,0.05,Tiruppur,Website,Card,18703.38,4.0
+ORD0002,2026-01-01,Electronics,Bluetooth Speaker,1.0,3899.27,0.1,Trichy,Store,Cash,3509.34,4.1
+ORD0003,2026-09-09,Sports,Yoga Mat,1.0,3283.3,0.0,Salem,Website,Cash,3283.3,4.7
+ORD0004,2026-07-15,Electronics,Bluetooth Speaker,5.0,4921.94125,0.05,Chennai,Website,Card,23379.22,4.3
+ORD0005,2026-01-11,Clothing,Kurti,5.0,1182.01,0.05,Coimbatore,Website,Card,5614.55,4.4
+ORD0006,2026-03-09,Sports,Yoga Mat,1.0,1219.55,0.05,Trichy,Mobile App,Net Banking,1158.57,4.0
+ORD0007,2026-05-11,Sports,Cricket Bat,4.0,1650.92,0.15,Trichy,Store,Cash,5613.13,4.8
+ORD0008,2026-04-21,Home,Water Bottle,1.0,1551.16,0.05,Tiruppur,Website,UPI,1473.6,3.6
+ORD0009,2026-02-24,Beauty,Face Wash,5.0,1091.86,0.15,Trichy,Mobile App,Cash,4640.4,3.9
+ORD0010,2026-02-24,Home,Bedsheet,5.0,1288.49,0.0,Tiruppur,Mobile App,Cash,6442.45,3.0
+ORD0011,2026-06-19,Clothing,Jeans,3.0,1234.07,0.1,Salem,Store,UPI,3331.99,3.3
+ORD0012,2026-04-17,Beauty,Sunscreen,3.0,1035.82,0.05,Tiruppur,Website,Card,2952.09,4.5
+ORD0013,2026-04-16,Sports,Football,2.0,1096.36,0.05,Salem,Website,Cash,2083.08,4.0
+ORD0014,2026-09-20,Beauty,Lipstick,5.0,1254.0,0.0,Chennai,Mobile App,Card,6270.0,2.8
+ORD0015,2026-03-18,Clothing,T-Shirt,1.0,487.3,0.1,Salem,Website,Net Banking,438.57,4.0
+ORD0016,2026-02-05,Clothing,Jeans,4.0,1676.32,0.15,Salem,Website,Card,5699.49,3.8
+ORD0017,2026-02-12,Home,Bedsheet,1.0,1311.33,0.05,Chennai,Store,Net Banking,1245.76,3.3
+ORD0018,2026-01-02,Electronics,Bluetooth Speaker,3.0,4921.94125,0.2,Tiruppur,Website,UPI,11812.66,4.2
+ORD0019,2026-03-06,Sports,Football,2.0,1740.82,0.1,Salem,Store,Cash,3133.48,3.8
+ORD0020,2026-04-11,Home,Water Bottle,4.0,1321.94,0.0,Coimbatore,Website,Cash,5287.76,4.0
+ORD0021,2026-07-30,Beauty,Sunscreen,5.0,213.15,0.05,Thanjavur,Website,UPI,1012.46,4.6
+ORD0022,2026-01-06,Home,Water Bottle,1.0,442.61,0.1,Salem,Website,Card,398.35,3.6
+ORD0023,2026-04-04,Clothing,T-Shirt,1.0,2450.05,0.1,Coimbatore,Mobile App,Cash,2205.04,4.7
+ORD0024,2026-02-17,Electronics,Earbuds,5.0,2973.73,0.0,Tiruppur,Store,Card,14868.65,3.8
+ORD0025,2026-02-03,Clothing,Jeans,1.0,2312.5,0.0,Trichy,Website,Cash,2312.5,3.8
+ORD0026,2026-05-03,Clothing,Jeans,5.0,1065.79,0.1,Madurai,Website,UPI,4796.06,4.8
+ORD0027,2026-07-04,Clothing,T-Shirt,5.0,833.2,0.15,Salem,Store,UPI,3541.1,4.2
+ORD0028,2026-05-02,Clothing,T-Shirt,4.0,898.62,0.15,Tiruppur,Store,Card,3055.31,3.7
+ORD0029,2026-08-27,Home,Bedsheet,1.0,1702.41,0.15,Tiruppur,Mobile App,Cash,1447.05,3.9
+ORD0030,2026-05-14,Home,Table Lamp,4.0,258.11,0.0,Chennai,Mobile App,Card,1032.44,4.1
+ORD0031,2026-09-23,Home,Water Bottle,3.0,1656.49,0.0,Trichy,Website,UPI,4969.47,3.1
+ORD0032,2026-09-25,Electronics,Bluetooth Speaker,5.0,1369.81,0.15,Trichy,Website,UPI,5821.69,4.4
+ORD0033,2026-08-16,Beauty,Lipstick,4.0,1440.52,0.1,Tiruppur,Mobile App,Card,5185.87,4.0
+ORD0034,2026-04-14,Clothing,Kurti,3.0,943.04,0.15,Chennai,Website,Card,2404.75,3.2
+ORD0035,2026-07-23,Beauty,Lipstick,3.0,1234.01,0.0,Coimbatore,Mobile App,Card,3702.03,3.4
+ORD0036,2026-07-14,Clothing,Jeans,4.0,1904.21,0.05,Chennai,Store,Cash,7236.0,3.9
+ORD0037,2026-07-15,Home,Table Lamp,3.0,1644.61,0.0,Coimbatore,Website,Card,4933.83,3.2
+ORD0038,2026-09-26,Clothing,Jeans,2.0,1582.24,0.1,Madurai,Website,Cash,2848.03,5.0
+ORD0039,2026-05-28,Electronics,Smart Watch,3.0,4721.7,0.15,Madurai,Website,Card,12040.34,3.3
+ORD0040,2026-03-22,Electronics,Smart Watch,1.0,1636.16,0.2,Coimbatore,Store,Net Banking,1308.93,4.1
+ORD0041,2026-04-23,Beauty,Face Wash,4.0,623.72,0.15,Madurai,Website,Cash,2120.65,2.3
+ORD0042,2026-05-05,Sports,Yoga Mat,1.0,969.94,0.0,Salem,Mobile App,Net Banking,969.94,3.9
+ORD0043,2026-06-12,Sports,Yoga Mat,3.0,3213.12,0.0,Thanjavur,Website,Card,9639.36,3.7
+ORD0044,2026-06-23,Electronics,Earbuds,3.0,4142.15,0.15,Chennai,Website,Cash,10562.48,4.3
+ORD0045,2026-04-04,Sports,Yoga Mat,4.0,658.03,0.0,Coimbatore,Store,Cash,2632.12,4.1
+ORD0046,2026-02-26,Electronics,Bluetooth Speaker,3.0,3120.04,0.1,Salem,Website,Cash,8424.11,3.8
+ORD0047,2026-02-10,Electronics,Earbuds,5.0,2759.49,0.15,Madurai,Mobile App,Net Banking,11727.83,5.0
+ORD0048,2026-08-02,Beauty,Face Wash,4.0,1098.11,0.1,Coimbatore,Website,Card,3953.2,4.5
+ORD0049,2026-03-10,Clothing,Kurti,4.0,1961.72,0.1,Salem,Store,UPI,7062.19,3.5
+ORD0050,2026-04-23,Beauty,Sunscreen,3.0,1596.07,0.05,Chennai,Website,Net Banking,4548.8,4.2
+ORD0051,2026-03-19,Beauty,Lipstick,2.0,298.17,0.2,Thanjavur,Mobile App,Cash,477.07,2.1
+ORD0052,2026-09-15,Beauty,Face Wash,5.0,916.32,0.05,Chennai,Store,UPI,4352.52,3.6
+ORD0053,2026-06-24,Clothing,Kurti,4.0,1922.54,0.0,Trichy,Mobile App,Net Banking,7690.16,4.8
+ORD0054,2026-01-31,Sports,Football,5.0,1604.89,0.0,Madurai,Website,Card,8024.45,3.6
+ORD0055,2026-06-05,Electronics,Bluetooth Speaker,2.0,4921.94125,0.15,Madurai,Store,Cash,8367.3,4.1
+ORD0056,2026-04-12,Home,Bedsheet,5.0,1644.07,0.05,Tiruppur,Store,Net Banking,7809.33,3.2
+ORD0057,2026-05-01,Home,Bedsheet,1.0,1102.53,0.15,Thanjavur,Mobile App,UPI,937.15,4.5
+ORD0058,2026-08-24,Clothing,T-Shirt,5.0,635.65,0.15,Coimbatore,Website,Net Banking,2701.51,4.1
+ORD0059,2026-02-25,Home,Water Bottle,5.0,2184.03,0.0,Coimbatore,Store,Net Banking,10920.15,4.0
+ORD0060,2026-02-07,Sports,Cricket Bat,3.0,2386.02,0.15,Thanjavur,Mobile App,Cash,6084.35,4.6
+ORD0061,2026-03-04,Sports,Football,2.0,1492.6,0.15,Salem,Store,UPI,2537.42,5.0
+ORD0062,2026-01-30,Home,Bedsheet,1.0,2014.61,0.15,Thanjavur,Website,UPI,1712.42,4.5
+ORD0063,2026-02-22,Clothing,Jeans,2.0,869.64,0.1,Madurai,Website,Net Banking,1565.35,2.8
+ORD0064,2026-09-30,Electronics,Earbuds,4.0,4805.99,0.05,Tiruppur,Mobile App,UPI,18262.76,4.2
+ORD0065,2026-07-12,Electronics,Earbuds,3.0,3348.38,0.1,Salem,Store,Card,9040.63,4.1
+ORD0066,2026-03-27,Sports,Cricket Bat,4.0,2695.65,0.0,Coimbatore,Mobile App,Net Banking,10782.6,3.2
+ORD0067,2026-07-14,Clothing,Jeans,2.0,891.44,0.1,Trichy,Store,UPI,1604.59,2.9
+ORD0068,2026-07-08,Electronics,Bluetooth Speaker,5.0,4921.94125,0.0,Coimbatore,Website,Cash,24609.71,3.7
+ORD0069,2026-09-13,Electronics,Earbuds,3.0,4921.94125,0.1,Trichy,Website,UPI,13289.24,3.8
+ORD0070,2026-09-22,Sports,Cricket Bat,5.0,928.26,0.1,Salem,Website,Cash,4177.17,3.9
+ORD0071,2026-09-23,Sports,Cricket Bat,8.5,1909.36,0.1,Salem,Store,Cash,14606.6,3.5
+ORD0072,2026-03-23,Clothing,Kurti,2.0,433.41,0.15,Salem,Store,Net Banking,736.8,4.1
+ORD0073,2026-09-19,Clothing,Kurti,1.0,1065.92,0.05,Coimbatore,Website,UPI,1012.62,4.2
+ORD0074,2026-06-27,Electronics,Bluetooth Speaker,5.0,3418.34,0.0,Tiruppur,Store,UPI,17091.7,3.8
+ORD0075,2026-01-01,Home,Water Bottle,4.0,1455.46,0.1,Coimbatore,Website,Card,5239.66,4.2
+ORD0076,2026-09-08,Home,Water Bottle,4.0,722.68,0.05,Thanjavur,Store,Net Banking,2746.18,3.6
+ORD0077,2026-05-03,Clothing,Jeans,1.0,2211.68,0.1,Tiruppur,Mobile App,UPI,1990.51,2.9
+ORD0078,2026-01-31,Clothing,Jeans,1.0,953.33,0.15,Coimbatore,Website,UPI,810.33,4.0
+ORD0079,2026-08-07,Clothing,T-Shirt,1.0,1316.44,0.0,Chennai,Store,Net Banking,1316.44,4.5
+ORD0080,2026-05-02,Clothing,Jeans,1.0,617.07,0.1,Trichy,Website,Cash,555.36,5.0
+ORD0081,2026-01-03,Clothing,T-Shirt,3.0,1013.47,0.0,Coimbatore,Mobile App,Card,3040.41,2.6
+ORD0082,2026-06-27,Electronics,Earbuds,1.0,894.02,0.05,Tiruppur,Website,Net Banking,849.32,3.6
+ORD0083,2026-07-12,Clothing,T-Shirt,4.0,2199.03,0.05,Trichy,Website,Cash,8356.31,3.4
+ORD0084,2026-01-29,Beauty,Sunscreen,1.0,443.36,0.0,Thanjavur,Mobile App,Cash,443.36,4.1
+ORD0085,2026-05-26,Beauty,Lipstick,3.0,1024.64,0.15,Salem,Store,Net Banking,2612.83,3.4
+ORD0086,2026-05-18,Clothing,Jeans,2.0,1835.28,0.0,Coimbatore,Website,UPI,3670.56,4.0
+ORD0087,2026-03-11,Sports,Football,3.0,2893.78,0.0,Salem,Store,UPI,8681.34,4.6
+ORD0088,2026-05-23,Sports,Football,1.0,834.88,0.0,Madurai,Store,Cash,834.88,3.5
+ORD0089,2026-01-08,Sports,Football,3.0,2719.73,0.0,Salem,Store,Cash,8159.19,3.9
+ORD0090,2026-03-30,Clothing,T-Shirt,1.0,514.61,0.1,Tiruppur,Mobile App,Net Banking,463.15,5.0
+ORD0091,2026-02-19,Beauty,Lipstick,3.0,746.73,0.15,Salem,Website,Cash,1904.16,4.5
+ORD0092,2026-03-04,Sports,Cricket Bat,1.0,3476.04,0.1,Chennai,Mobile App,Net Banking,3128.44,2.9
+ORD0093,2026-03-03,Electronics,Earbuds,4.0,4353.42,0.0,Coimbatore,Website,Card,17413.68,5.0
+ORD0094,2026-03-27,Electronics,Smart Watch,1.0,1183.99,0.1,Thanjavur,Store,Card,1065.59,3.5
+ORD0095,2026-07-19,Sports,Football,4.0,1961.47,0.05,Coimbatore,Mobile App,Card,7453.59,4.2
+ORD0096,2026-07-20,Beauty,Face Wash,2.0,254.82,0.1,Madurai,Website,Net Banking,458.68,3.7
+ORD0097,2026-06-11,Sports,Football,4.0,1075.07,0.0,Coimbatore,Store,Net Banking,4300.28,3.7
+ORD0098,2026-08-12,Beauty,Face Wash,2.0,1565.22,0.1,Salem,Store,Net Banking,2817.4,3.5
+ORD0099,2026-04-05,Clothing,Kurti,2.0,1111.3,0.0,Thanjavur,Mobile App,Net Banking,2222.6,4.4
+ORD0100,2026-05-30,Home,Table Lamp,3.0,1555.68,0.0,Thanjavur,Mobile App,Card,4667.04,3.5
+ORD0101,2026-01-09,Clothing,T-Shirt,5.0,2432.12,0.15,Tiruppur,Store,Card,10336.51,3.1
+ORD0102,2026-03-04,Electronics,Bluetooth Speaker,1.0,4921.94125,0.0,Chennai,Website,Net Banking,4921.94,3.6
+ORD0103,2026-07-11,Home,Table Lamp,3.0,658.96,0.0,Chennai,Mobile App,Cash,1976.88,4.0
+ORD0104,2026-03-12,Electronics,Smart Watch,1.0,4921.94125,0.05,Chennai,Website,Net Banking,4675.84,2.7
+ORD0105,2026-02-22,Sports,Yoga Mat,4.0,2610.61,0.1,Trichy,Mobile App,Card,9398.2,4.5
+ORD0106,2026-08-01,Clothing,Kurti,1.0,938.88,0.1,Tiruppur,Store,Card,844.99,3.5
+ORD0107,2026-03-29,Beauty,Lipstick,3.0,730.02,0.0,Tiruppur,Store,Net Banking,2190.06,4.4
+ORD0108,2026-09-29,Electronics,Bluetooth Speaker,1.0,4921.94125,0.1,Trichy,Mobile App,Net Banking,4429.75,4.9
+ORD0109,2026-06-13,Sports,Yoga Mat,5.0,1168.06,0.05,Madurai,Website,Card,5548.28,4.2
+ORD0110,2026-07-01,Clothing,Jeans,3.0,1861.43,0.0,Coimbatore,Store,Cash,5584.29,4.3
+ORD0111,2026-06-08,Electronics,Smart Watch,2.0,3494.59,0.1,Thanjavur,Website,UPI,6290.26,3.7
+ORD0112,2026-02-09,Clothing,Jeans,2.0,2040.0,0.1,Trichy,Website,Cash,3672.0,3.5
+ORD0113,2026-03-27,Beauty,Face Wash,2.0,1696.19,0.05,Trichy,Mobile App,UPI,3222.76,2.7
+ORD0114,2026-02-24,Clothing,T-Shirt,2.0,2312.87,0.0,Salem,Mobile App,Card,4625.74,3.8
+ORD0115,2026-04-07,Clothing,Jeans,1.0,2428.42,0.0,Thanjavur,Store,Card,2428.42,3.6
+ORD0116,2026-03-01,Beauty,Face Wash,2.0,1482.66,0.15,Trichy,Website,Net Banking,2520.52,2.4
+ORD0117,2026-02-15,Beauty,Lipstick,5.0,1419.9,0.05,Salem,Mobile App,Card,6744.52,4.1
+ORD0118,2026-05-17,Sports,Football,2.0,2505.08,0.0,Salem,Store,UPI,5010.16,5.0
+ORD0119,2026-03-11,Electronics,Earbuds,2.0,4921.94125,0.0,Thanjavur,Mobile App,Cash,9843.88,4.2
+ORD0120,2026-03-03,Clothing,Jeans,5.0,537.72,0.05,Chennai,Website,UPI,2554.17,4.7
+ORD0121,2026-09-02,Electronics,Bluetooth Speaker,4.0,2274.16,0.15,Tiruppur,Store,Net Banking,7732.14,3.8
+ORD0122,2026-05-03,Clothing,Jeans,4.0,2340.84,0.1,Salem,Mobile App,Net Banking,8427.02,3.3
+ORD0123,2026-06-30,Clothing,Jeans,2.0,1595.53,0.0,Tiruppur,Website,Cash,3191.06,4.0
+ORD0124,2026-08-29,Home,Table Lamp,1.0,1307.63,0.0,Salem,Store,Cash,1307.63,3.7
+ORD0125,2026-07-14,Beauty,Sunscreen,2.0,603.29,0.05,Chennai,Mobile App,Cash,1146.25,3.2
+ORD0126,2026-01-20,Home,Water Bottle,5.0,446.3,0.05,Tiruppur,Store,Card,2119.92,4.6
+ORD0127,2026-03-27,Beauty,Lipstick,1.0,1195.24,0.1,Chennai,Store,Cash,1075.72,4.1
+ORD0128,2026-06-21,Home,Bedsheet,1.0,1105.27,0.15,Salem,Website,Cash,939.48,3.5
+ORD0129,2026-04-04,Home,Table Lamp,3.0,1644.04,0.0,Chennai,Website,UPI,4932.12,4.1
+ORD0130,2026-04-16,Electronics,Smart Watch,3.0,3584.27,0.0,Chennai,Website,UPI,10752.81,3.9
+ORD0131,2026-04-30,Clothing,T-Shirt,5.0,2069.99,0.05,Trichy,Store,UPI,9832.45,4.4
+ORD0132,2026-02-25,Electronics,Earbuds,1.0,4921.94125,0.15,Madurai,Store,UPI,4183.65,5.0
+ORD0133,2026-04-15,Home,Water Bottle,5.0,1195.24,0.0,Madurai,Store,Card,5976.2,3.6
+ORD0134,2026-03-10,Clothing,Jeans,2.0,1178.65,0.15,Salem,Store,Net Banking,2003.71,3.2
+ORD0135,2026-09-10,Clothing,Jeans,5.0,501.55,0.0,Trichy,Store,Card,2507.75,4.9
+ORD0136,2026-06-20,Home,Bedsheet,3.0,1155.99,0.1,Thanjavur,Mobile App,Cash,3121.17,5.0
+ORD0137,2026-03-18,Clothing,Jeans,1.0,978.81,0.1,Trichy,Store,Cash,880.93,3.6
+ORD0138,2026-06-09,Electronics,Earbuds,2.0,2017.69,0.15,Coimbatore,Store,Cash,3430.07,3.4
+ORD0139,2026-06-27,Beauty,Face Wash,4.0,1677.08,0.2,Madurai,Mobile App,Cash,5366.66,3.2
+ORD0140,2026-09-29,Electronics,Bluetooth Speaker,5.0,2837.65,0.0,Tiruppur,Website,Card,14188.25,4.0
+ORD0141,2026-03-24,Electronics,Bluetooth Speaker,4.0,4499.43,0.1,Trichy,Website,UPI,16197.95,4.0
+ORD0142,2026-05-07,Home,Bedsheet,1.0,1845.68,0.0,Madurai,Store,UPI,1845.68,3.8
+ORD0143,2026-08-03,Sports,Yoga Mat,3.0,866.46,0.15,Salem,Mobile App,Card,2209.47,4.5
+ORD0144,2026-06-01,Sports,Football,1.0,719.86,0.0,Trichy,Mobile App,Net Banking,719.86,3.4
+ORD0145,2026-06-09,Clothing,Kurti,1.0,1607.0,0.0,Chennai,Website,Net Banking,1607.0,3.9
+ORD0146,2026-01-27,Home,Water Bottle,1.0,2014.35,0.0,Trichy,Store,Card,2014.35,3.2
+ORD0147,2026-08-15,Electronics,Earbuds,2.0,4921.94125,0.1,Tiruppur,Mobile App,Card,8859.49,4.9
+ORD0148,2026-02-20,Clothing,Jeans,2.0,805.85,0.0,Chennai,Store,Card,1611.7,4.7
+ORD0149,2026-01-17,Clothing,Jeans,1.0,1503.29,0.15,Trichy,Mobile App,UPI,1277.8,4.8
+ORD0150,2026-06-11,Beauty,Sunscreen,3.0,658.62,0.1,Madurai,Store,UPI,1778.27,3.4
+ORD0151,2026-09-01,Sports,Football,5.0,2734.28,0.0,Coimbatore,Website,Net Banking,13671.4,4.8
+ORD0152,2026-04-29,Home,Bedsheet,5.0,1367.3,0.1,Tiruppur,Store,Card,6152.85,4.2
+ORD0153,2026-05-17,Sports,Cricket Bat,1.0,1721.43,0.15,Coimbatore,Store,Net Banking,1463.22,4.4
+ORD0154,2026-01-25,Sports,Yoga Mat,1.0,2070.49,0.1,Coimbatore,Mobile App,Cash,1863.44,4.4
+ORD0155,2026-09-04,Home,Bedsheet,2.0,1453.88,0.2,Trichy,Mobile App,Card,2326.21,3.8
+ORD0156,2026-02-25,Electronics,Earbuds,1.0,4439.34,0.0,Salem,Store,Net Banking,4439.34,3.9
+ORD0157,2026-07-08,Clothing,T-Shirt,2.0,880.34,0.15,Thanjavur,Store,UPI,1496.58,3.0
+ORD0158,2026-04-09,Beauty,Face Wash,1.0,775.45,0.0,Chennai,Mobile App,Cash,775.45,3.6
+ORD0159,2026-02-11,Sports,Football,2.0,2184.65,0.1,Salem,Mobile App,Net Banking,3932.37,3.8
+ORD0160,2026-01-29,Home,Water Bottle,3.0,1727.68,0.0,Tiruppur,Store,UPI,5183.04,3.2
+ORD0161,2026-04-03,Clothing,T-Shirt,1.0,990.77,0.05,Coimbatore,Store,Card,941.23,4.0
+ORD0162,2026-03-02,Sports,Football,4.0,575.3,0.1,Chennai,Mobile App,Cash,2071.08,4.8
+ORD0163,2026-09-07,Home,Water Bottle,1.0,1461.91,0.1,Chennai,Store,Cash,1315.72,3.7
+ORD0164,2026-06-13,Sports,Football,3.0,2527.19,0.1,Tiruppur,Mobile App,Net Banking,6823.41,3.4
+ORD0165,2026-04-23,Electronics,Bluetooth Speaker,5.0,3459.98,0.15,Tiruppur,Mobile App,Cash,14704.92,3.4
+ORD0166,2026-09-23,Electronics,Bluetooth Speaker,4.0,2085.56,0.0,Chennai,Mobile App,Net Banking,8342.24,4.1
+ORD0167,2026-08-15,Home,Water Bottle,2.0,767.2,0.0,Coimbatore,Store,UPI,1534.4,5.0
+ORD0168,2026-03-06,Clothing,Kurti,4.0,437.44,0.0,Salem,Store,Cash,1749.76,4.1
+ORD0169,2026-06-08,Home,Table Lamp,3.0,768.58,0.0,Madurai,Mobile App,Net Banking,2305.74,4.0
+ORD0170,2026-06-06,Clothing,Jeans,2.0,2076.09,0.0,Thanjavur,Mobile App,UPI,4152.18,3.2
+ORD0171,2026-09-01,Home,Bedsheet,2.0,1027.92,0.0,Salem,Website,UPI,2055.84,4.2
+ORD0172,2026-05-15,Sports,Yoga Mat,1.0,3050.97,0.0,Tiruppur,Mobile App,Cash,3050.97,4.4
+ORD0173,2026-03-26,Electronics,Bluetooth Speaker,3.0,4921.94125,0.1,Trichy,Mobile App,Cash,13289.24,3.7
+ORD0174,2026-01-07,Sports,Yoga Mat,1.0,1040.95,0.0,Tiruppur,Store,Card,1040.95,4.0
+ORD0175,2026-04-05,Clothing,T-Shirt,3.0,707.2,0.0,Trichy,Mobile App,Net Banking,2121.6,3.6
+ORD0176,2026-01-30,Electronics,Bluetooth Speaker,4.0,2799.6,0.05,Thanjavur,Mobile App,Cash,10638.48,4.5
+ORD0177,2026-03-18,Clothing,Kurti,1.0,1584.61,0.05,Coimbatore,Website,UPI,1505.38,4.9
+ORD0178,2026-04-20,Clothing,Jeans,1.0,828.24,0.0,Madurai,Store,Card,828.24,4.2
+ORD0179,2026-05-16,Home,Water Bottle,1.0,350.53,0.15,Madurai,Website,Card,297.95,4.3
+ORD0180,2026-06-30,Home,Bedsheet,2.0,757.42,0.1,Tiruppur,Website,Net Banking,1363.36,4.0
+ORD0181,2026-07-19,Electronics,Earbuds,5.0,1509.16,0.2,Salem,Store,Cash,6036.64,3.6
+ORD0182,2026-06-21,Home,Water Bottle,5.0,718.59,0.0,Salem,Mobile App,UPI,3592.95,3.5
+ORD0183,2026-05-28,Sports,Football,3.0,1643.45,0.1,Trichy,Mobile App,Cash,4437.32,3.7
+ORD0184,2026-09-04,Clothing,T-Shirt,1.0,1418.9,0.1,Chennai,Website,Net Banking,1277.01,4.1
+ORD0185,2026-05-18,Electronics,Smart Watch,1.0,4569.08,0.0,Tiruppur,Mobile App,Card,4569.08,4.0
+ORD0186,2026-07-10,Clothing,T-Shirt,3.0,843.38,0.05,Salem,Store,Cash,2403.63,4.6
+ORD0187,2026-04-26,Clothing,Jeans,1.0,1067.28,0.2,Salem,Store,Cash,853.82,4.5
+ORD0188,2026-02-17,Electronics,Earbuds,1.0,4921.94125,0.0,Chennai,Mobile App,UPI,4921.94,5.0
+ORD0189,2026-01-11,Clothing,Jeans,1.0,1517.48,0.2,Madurai,Store,Card,1213.98,4.5
+ORD0190,2026-02-07,Home,Table Lamp,2.0,439.64,0.1,Tiruppur,Store,Net Banking,791.35,3.8
+ORD0191,2026-05-06,Electronics,Bluetooth Speaker,1.0,3618.15,0.1,Tiruppur,Website,UPI,3256.34,4.1
+ORD0192,2026-04-26,Clothing,Kurti,3.0,1363.73,0.0,Coimbatore,Mobile App,Net Banking,4091.19,2.9
+ORD0193,2026-07-01,Electronics,Smart Watch,3.0,3234.12,0.0,Chennai,Store,Net Banking,9702.36,5.0
+ORD0194,2026-08-03,Clothing,T-Shirt,5.0,1367.05,0.0,Coimbatore,Mobile App,Cash,6835.25,3.6
+ORD0195,2026-06-25,Home,Bedsheet,3.0,1992.51,0.15,Salem,Mobile App,Net Banking,5080.9,3.7
+ORD0196,2026-07-23,Home,Bedsheet,3.0,513.52,0.0,Thanjavur,Mobile App,Card,1540.56,5.0
+ORD0197,2026-02-26,Electronics,Earbuds,3.0,3537.48,0.05,Salem,Mobile App,Card,10081.82,3.3
+ORD0198,2026-04-06,Home,Water Bottle,3.0,1565.55,0.15,Coimbatore,Store,UPI,3992.15,3.6
+ORD0199,2026-02-11,Electronics,Smart Watch,2.0,4410.79,0.15,Thanjavur,Website,Net Banking,7498.34,3.9
+ORD0200,2026-05-30,Beauty,Lipstick,1.0,1059.56,0.1,Coimbatore,Store,Cash,953.6,3.6
+ORD0201,2026-02-14,Clothing,T-Shirt,5.0,1087.5,0.15,Salem,Store,Net Banking,4621.88,4.0
+ORD0202,2026-03-21,Sports,Yoga Mat,5.0,1348.97,0.0,Tiruppur,Website,Card,6744.85,4.1
+ORD0203,2026-05-11,Home,Water Bottle,3.0,1625.76,0.0,Tiruppur,Store,Net Banking,4877.28,4.4
+ORD0204,2026-08-12,Home,Water Bottle,5.0,1985.26,0.05,Thanjavur,Website,Card,9429.98,3.9
+ORD0205,2026-05-13,Clothing,Kurti,1.0,534.84,0.15,Trichy,Store,Net Banking,454.61,4.4
+ORD0206,2026-03-12,Clothing,T-Shirt,4.0,1125.5,0.0,Coimbatore,Mobile App,Net Banking,4502.0,3.8
+ORD0207,2026-09-06,Sports,Football,3.0,2577.13,0.1,Thanjavur,Website,Card,6958.25,4.4
+ORD0208,2026-09-05,Electronics,Smart Watch,3.0,3330.7,0.0,Thanjavur,Store,Card,9992.1,4.8
+ORD0209,2026-09-07,Electronics,Earbuds,5.0,4921.94125,0.0,Thanjavur,Website,Net Banking,24609.71,2.9
+ORD0210,2026-07-19,Clothing,Kurti,4.0,635.09,0.1,Salem,Mobile App,UPI,2286.32,3.8
+ORD0211,2026-01-15,Clothing,Jeans,3.0,2169.78,0.05,Thanjavur,Mobile App,Card,6183.87,4.1
+ORD0212,2026-06-14,Clothing,Kurti,5.0,986.26,0.15,Thanjavur,Website,Card,4191.61,2.8
+ORD0213,2026-04-03,Clothing,Kurti,4.0,516.36,0.05,Coimbatore,Website,Card,1962.17,2.0
+ORD0214,2026-04-11,Home,Bedsheet,3.0,1783.51,0.0,Coimbatore,Store,Card,5350.53,4.2
+ORD0215,2026-08-16,Clothing,Jeans,4.0,1098.45,0.15,Salem,Store,Net Banking,3734.73,3.6
+ORD0216,2026-07-04,Beauty,Face Wash,1.0,1023.74,0.0,Salem,Store,Cash,1023.74,4.5
+ORD0217,2026-09-18,Home,Bedsheet,3.0,1499.09,0.0,Salem,Mobile App,Cash,4497.27,4.0
+ORD0218,2026-02-10,Electronics,Earbuds,2.0,4001.1,0.0,Salem,Mobile App,Cash,8002.2,4.0
+ORD0219,2026-03-07,Electronics,Bluetooth Speaker,1.0,4921.94125,0.0,Thanjavur,Website,Cash,4921.94,3.8
+ORD0220,2026-03-07,Sports,Cricket Bat,5.0,2765.19,0.1,Trichy,Store,Card,12443.36,4.1
+ORD0221,2026-05-23,Electronics,Earbuds,1.0,4671.96,0.1,Trichy,Store,Card,4204.76,3.4
+ORD0222,2026-01-30,Beauty,Lipstick,1.0,1032.19,0.0,Madurai,Store,Net Banking,1032.19,3.7
+ORD0223,2026-05-20,Home,Table Lamp,4.0,1218.78,0.0,Madurai,Website,Card,4875.12,4.5
+ORD0224,2026-03-03,Clothing,Kurti,2.0,1052.59,0.1,Tiruppur,Store,Cash,1894.66,3.8
+ORD0225,2026-02-16,Clothing,Kurti,1.0,1538.42,0.05,Madurai,Store,Cash,1461.5,4.3
+ORD0226,2026-08-26,Electronics,Bluetooth Speaker,1.0,902.73,0.1,Thanjavur,Website,Cash,812.46,4.0
+ORD0227,2026-01-13,Sports,Yoga Mat,1.0,743.21,0.0,Thanjavur,Website,Card,743.21,3.8
+ORD0228,2026-01-23,Sports,Football,5.0,3153.92,0.05,Salem,Mobile App,Net Banking,14981.12,3.4
+ORD0229,2026-06-03,Beauty,Face Wash,1.0,1152.59,0.15,Coimbatore,Store,Card,979.7,4.5
+ORD0230,2026-06-15,Sports,Cricket Bat,2.0,1554.78,0.2,Salem,Website,UPI,2487.65,3.5
+ORD0231,2026-02-16,Electronics,Earbuds,4.0,3792.88,0.0,Coimbatore,Mobile App,Net Banking,15171.52,4.2
+ORD0232,2026-01-14,Home,Table Lamp,3.0,1663.32,0.1,Tiruppur,Website,Cash,4490.96,3.0
+ORD0233,2026-06-09,Electronics,Earbuds,2.0,4430.51,0.15,Thanjavur,Website,Net Banking,7531.87,4.2
+ORD0234,2026-01-14,Electronics,Bluetooth Speaker,3.0,2796.05,0.15,Chennai,Website,Net Banking,7129.93,4.2
+ORD0235,2026-03-27,Sports,Yoga Mat,1.0,3020.39,0.1,Madurai,Store,Net Banking,2718.35,3.6
+ORD0236,2026-07-20,Home,Bedsheet,2.0,1310.2,0.0,Trichy,Store,UPI,2620.4,2.9
+ORD0237,2026-04-19,Electronics,Smart Watch,1.0,4469.98,0.0,Coimbatore,Store,Card,4469.98,3.9
+ORD0238,2026-06-20,Beauty,Lipstick,1.0,1428.06,0.15,Tiruppur,Store,UPI,1213.85,4.1
+ORD0239,2026-01-24,Beauty,Lipstick,3.0,722.53,0.15,Coimbatore,Mobile App,UPI,1842.45,3.7
+ORD0240,2026-01-07,Home,Water Bottle,5.0,682.31,0.1,Thanjavur,Mobile App,UPI,3070.4,3.6
+ORD0241,2026-04-05,Clothing,T-Shirt,1.0,1035.73,0.0,Trichy,Mobile App,Net Banking,1035.73,4.6
+ORD0242,2026-01-08,Electronics,Bluetooth Speaker,3.0,2193.67,0.0,Salem,Mobile App,UPI,6581.01,3.9
+ORD0243,2026-04-03,Sports,Football,3.0,3266.81,0.0,Chennai,Website,Cash,9800.43,3.7
+ORD0244,2026-09-02,Clothing,T-Shirt,2.0,403.54,0.15,Trichy,Store,Net Banking,686.02,4.5
+ORD0245,2026-07-03,Home,Table Lamp,1.0,445.14,0.0,Madurai,Store,Cash,445.14,4.0
+ORD0246,2026-09-03,Electronics,Earbuds,3.0,2967.57,0.1,Chennai,Website,Cash,8012.44,3.5
+ORD0247,2026-02-10,Electronics,Earbuds,1.0,4921.94125,0.0,Coimbatore,Store,Net Banking,4921.94,4.6
+ORD0248,2026-02-20,Sports,Football,5.0,2027.87,0.0,Tiruppur,Store,Card,10139.35,3.8
+ORD0249,2026-05-30,Electronics,Smart Watch,4.0,862.45,0.05,Salem,Store,Net Banking,3277.31,4.6
+ORD0250,2026-05-11,Beauty,Lipstick,2.0,600.62,0.1,Tiruppur,Store,Card,1081.12,3.6
+ORD0251,2026-03-16,Clothing,Jeans,4.0,1230.5,0.1,Madurai,Website,Card,4429.8,4.2
+ORD0252,2026-03-03,Home,Table Lamp,2.0,813.55,0.1,Trichy,Mobile App,UPI,1464.39,4.8
+ORD0253,2026-02-14,Home,Bedsheet,4.0,619.06,0.0,Salem,Mobile App,Card,2476.24,4.3
+ORD0254,2026-08-14,Sports,Yoga Mat,3.0,1935.99,0.1,Tiruppur,Store,Net Banking,5227.17,4.3
+ORD0255,2026-01-12,Clothing,T-Shirt,1.0,2381.09,0.05,Madurai,Mobile App,Cash,2262.04,4.3
+ORD0256,2026-02-18,Electronics,Smart Watch,1.0,2258.45,0.0,Madurai,Store,Card,2258.45,4.5
+ORD0257,2026-08-12,Clothing,T-Shirt,5.0,1858.04,0.05,Trichy,Website,Net Banking,8825.69,4.0
+ORD0258,2026-02-13,Home,Table Lamp,4.0,2003.3,0.0,Chennai,Mobile App,Cash,8013.2,4.3
+ORD0259,2026-07-29,Electronics,Bluetooth Speaker,3.0,4921.94125,0.0,Coimbatore,Mobile App,Net Banking,14765.82,3.8
+ORD0260,2026-07-30,Beauty,Lipstick,3.0,1100.01,0.1,Coimbatore,Store,Cash,2970.03,5.0
+ORD0261,2026-06-28,Electronics,Smart Watch,1.0,4921.94125,0.05,Trichy,Mobile App,UPI,4675.84,3.4
+ORD0262,2026-04-27,Clothing,T-Shirt,3.0,2074.57,0.2,Madurai,Website,Cash,4978.97,4.5
+ORD0263,2026-07-09,Sports,Cricket Bat,1.0,1605.91,0.0,Tiruppur,Mobile App,Cash,1605.91,3.4
+ORD0264,2026-06-21,Beauty,Lipstick,3.0,979.41,0.1,Trichy,Mobile App,UPI,2644.41,4.3
+ORD0265,2026-02-23,Electronics,Smart Watch,1.0,4921.94125,0.05,Tiruppur,Website,UPI,4675.84,4.8
+ORD0266,2026-06-15,Beauty,Lipstick,3.0,1791.83,0.2,Madurai,Mobile App,Card,4300.39,3.3
+ORD0267,2026-08-24,Clothing,Kurti,4.0,1801.23,0.0,Tiruppur,Website,Cash,7204.92,5.0
+ORD0268,2026-06-20,Electronics,Smart Watch,4.0,4921.94125,0.0,Tiruppur,Website,UPI,19687.76,3.4
+ORD0269,2026-08-30,Home,Water Bottle,3.0,607.63,0.1,Tiruppur,Website,UPI,1640.6,3.5
+ORD0270,2026-09-18,Sports,Cricket Bat,3.0,2026.88,0.1,Trichy,Website,Net Banking,5472.58,4.2
+ORD0271,2026-04-25,Sports,Yoga Mat,1.0,1299.91,0.1,Trichy,Website,Cash,1169.92,3.3
+ORD0272,2026-03-25,Sports,Cricket Bat,1.0,2301.49,0.0,Salem,Website,Card,2301.49,4.6
+ORD0273,2026-07-21,Beauty,Face Wash,5.0,851.82,0.1,Tiruppur,Store,Net Banking,3833.19,4.3
+ORD0274,2026-07-27,Electronics,Smart Watch,2.0,2683.89,0.0,Coimbatore,Mobile App,UPI,5367.78,2.2
+ORD0275,2026-07-19,Clothing,Jeans,3.0,2162.29,0.0,Coimbatore,Store,UPI,6486.87,3.1
+ORD0276,2026-08-05,Electronics,Smart Watch,2.0,4850.46,0.2,Salem,Mobile App,Cash,7760.74,3.5
+ORD0277,2026-08-04,Clothing,Jeans,3.0,846.68,0.0,Madurai,Mobile App,UPI,2540.04,4.3
+ORD0278,2026-04-11,Clothing,Jeans,4.0,548.29,0.2,Trichy,Website,Card,1754.53,3.3
+ORD0279,2026-02-16,Sports,Football,5.0,400.84,0.0,Chennai,Mobile App,Cash,2004.2,3.5
+ORD0280,2026-01-23,Home,Bedsheet,4.0,1514.42,0.05,Chennai,Mobile App,Card,5754.8,4.4
+ORD0281,2026-09-24,Electronics,Bluetooth Speaker,4.0,4921.94125,0.15,Madurai,Website,Cash,16734.6,3.4
+ORD0282,2026-06-19,Sports,Cricket Bat,5.0,3439.02,0.1,Salem,Store,Card,15475.59,4.2
+ORD0283,2026-09-07,Electronics,Smart Watch,5.0,2849.69,0.0,Thanjavur,Store,Cash,14248.45,3.1
+ORD0284,2026-04-01,Beauty,Lipstick,5.0,441.91,0.0,Salem,Mobile App,Net Banking,2209.55,4.6
+ORD0285,2026-09-26,Sports,Cricket Bat,4.0,2133.81,0.2,Madurai,Mobile App,Net Banking,6828.19,4.9
+ORD0286,2026-08-16,Sports,Yoga Mat,5.0,3329.57,0.1,Madurai,Mobile App,Cash,14983.07,3.3
+ORD0287,2026-04-10,Electronics,Bluetooth Speaker,4.0,4144.83,0.1,Madurai,Website,Net Banking,14921.39,2.5
+ORD0288,2026-07-10,Clothing,T-Shirt,1.0,521.43,0.1,Salem,Mobile App,Net Banking,469.29,2.9
+ORD0289,2026-09-28,Clothing,Jeans,1.0,1373.85,0.15,Chennai,Mobile App,Card,1167.77,4.6
+ORD0290,2026-07-27,Clothing,Kurti,5.0,1290.0,0.0,Trichy,Website,UPI,6450.0,3.6
+ORD0291,2026-08-07,Sports,Football,3.0,1440.6,0.0,Salem,Store,Card,4321.8,4.7
+ORD0292,2026-09-05,Beauty,Sunscreen,5.0,743.84,0.1,Chennai,Website,Net Banking,3347.28,3.1
+ORD0293,2026-06-17,Electronics,Earbuds,1.0,1823.64,0.0,Thanjavur,Store,Cash,1823.64,3.4
+ORD0294,2026-01-20,Home,Water Bottle,1.0,994.8,0.0,Coimbatore,Store,Net Banking,994.8,3.9
+ORD0295,2026-03-12,Clothing,Jeans,3.0,1718.22,0.1,Tiruppur,Mobile App,Net Banking,4639.19,4.7
+ORD0296,2026-05-10,Home,Table Lamp,4.0,1223.46,0.1,Chennai,Store,Card,4404.46,3.8
+ORD0297,2026-07-22,Home,Water Bottle,5.0,2021.16,0.0,Trichy,Mobile App,UPI,10105.8,3.3
+ORD0298,2026-08-28,Home,Water Bottle,1.0,1968.56,0.05,Thanjavur,Website,Cash,1870.13,4.2
+ORD0299,2026-03-08,Beauty,Face Wash,4.0,517.99,0.1,Madurai,Store,Cash,1864.76,4.0
+ORD0300,2026-06-24,Electronics,Earbuds,4.0,4114.87,0.05,Coimbatore,Website,UPI,15636.51,4.3
+ORD0301,2026-08-05,Home,Table Lamp,4.0,4921.94125,0.0,Salem,Website,UPI,19687.76,3.9
+ORD0302,2026-09-16,Clothing,Jeans,4.0,1090.53,0.15,Trichy,Website,Net Banking,3707.8,3.6
+ORD0303,2026-03-31,Electronics,Bluetooth Speaker,1.0,4921.94125,0.1,Trichy,Website,Net Banking,4429.75,4.0
+ORD0304,2026-04-10,Electronics,Earbuds,5.0,3984.0,0.05,Madurai,Website,Card,18924.0,2.4
+ORD0305,2026-06-08,Clothing,T-Shirt,1.0,636.56,0.1,Tiruppur,Store,Card,572.9,4.2
+ORD0306,2026-04-11,Electronics,Smart Watch,3.0,3604.22,0.05,Trichy,Store,Net Banking,10272.03,4.8
+ORD0307,2026-04-30,Clothing,Kurti,3.0,1047.38,0.1,Madurai,Website,UPI,2827.93,4.3
+ORD0308,2026-08-18,Electronics,Earbuds,2.0,4100.2,0.0,Tiruppur,Website,Net Banking,8200.4,3.4
+ORD0309,2026-06-18,Clothing,T-Shirt,4.0,1192.35,0.0,Madurai,Mobile App,Net Banking,4769.4,3.0
+ORD0310,2026-08-01,Electronics,Smart Watch,1.0,4921.94125,0.0,Madurai,Mobile App,Net Banking,4921.94,4.8
+ORD0311,2026-07-23,Electronics,Bluetooth Speaker,1.0,4921.94125,0.0,Madurai,Mobile App,UPI,4921.94,3.7
+ORD0312,2026-03-30,Sports,Football,2.0,704.76,0.2,Madurai,Mobile App,Cash,1127.62,3.8
+ORD0313,2026-09-21,Electronics,Bluetooth Speaker,4.0,1344.5,0.05,Salem,Store,Net Banking,5109.1,4.1
+ORD0314,2026-09-26,Home,Bedsheet,3.0,579.51,0.0,Trichy,Website,UPI,1738.53,3.6
+ORD0315,2026-09-29,Home,Table Lamp,2.0,1787.67,0.0,Madurai,Website,Net Banking,3575.34,4.0
+ORD0316,2026-08-15,Electronics,Bluetooth Speaker,2.0,3663.95,0.0,Madurai,Mobile App,Cash,7327.9,4.9
+ORD0317,2026-01-14,Home,Table Lamp,1.0,2176.13,0.0,Trichy,Store,Card,2176.13,3.7
+ORD0318,2026-06-20,Clothing,T-Shirt,4.0,1663.38,0.0,Madurai,Mobile App,Net Banking,6653.52,5.0
+ORD0319,2026-05-30,Clothing,Kurti,2.0,1813.87,0.0,Madurai,Mobile App,UPI,3627.74,4.2
+ORD0320,2026-03-16,Electronics,Smart Watch,3.0,4921.94125,0.1,Madurai,Mobile App,Card,13289.24,4.2
+ORD0321,2026-04-17,Home,Bedsheet,1.0,2177.1,0.1,Trichy,Mobile App,Card,1959.39,4.6
+ORD0322,2026-08-30,Electronics,Earbuds,5.0,4253.09,0.0,Thanjavur,Website,Card,21265.45,4.6
+ORD0323,2026-08-11,Electronics,Smart Watch,5.0,847.26,0.0,Chennai,Mobile App,UPI,4236.3,4.7
+ORD0324,2026-03-03,Electronics,Earbuds,4.0,3951.08,0.0,Coimbatore,Store,Net Banking,15804.32,4.3
+ORD0325,2026-02-25,Sports,Cricket Bat,4.0,1666.57,0.0,Salem,Mobile App,Card,6666.28,3.6
+ORD0326,2026-08-31,Sports,Cricket Bat,3.0,1277.02,0.0,Tiruppur,Website,Cash,3831.06,5.0
+ORD0327,2026-05-16,Clothing,T-Shirt,2.0,1688.44,0.05,Tiruppur,Mobile App,UPI,3208.04,3.9
+ORD0328,2026-07-27,Clothing,T-Shirt,3.0,1694.74,0.1,Thanjavur,Store,Card,4575.8,3.4
+ORD0329,2026-07-27,Electronics,Bluetooth Speaker,2.0,2844.75,0.0,Coimbatore,Website,UPI,5689.5,4.6
+ORD0330,2026-05-19,Electronics,Earbuds,1.0,1927.25,0.0,Trichy,Mobile App,Card,1927.25,4.4
+ORD0331,2026-03-11,Clothing,T-Shirt,4.0,1774.71,0.05,Trichy,Store,Card,6743.9,4.0
+ORD0332,2026-02-13,Electronics,Bluetooth Speaker,1.0,2451.14,0.1,Madurai,Website,Card,2206.03,4.0
+ORD0333,2026-09-28,Beauty,Face Wash,2.0,396.58,0.05,Chennai,Mobile App,Card,753.5,4.4
+ORD0334,2026-03-09,Electronics,Smart Watch,2.0,4921.94125,0.15,Salem,Mobile App,Card,8367.3,5.0
+ORD0335,2026-06-30,Sports,Football,1.0,2948.36,0.1,Trichy,Website,UPI,2653.52,3.9
+ORD0336,2026-05-25,Home,Water Bottle,5.0,1996.68,0.0,Thanjavur,Store,Net Banking,9983.4,3.2
+ORD0337,2026-05-14,Clothing,T-Shirt,2.0,437.87,0.1,Tiruppur,Mobile App,UPI,788.17,3.6
+ORD0338,2026-09-03,Beauty,Face Wash,3.0,1196.66,0.05,Thanjavur,Store,Card,3410.48,4.3
+ORD0339,2026-08-22,Electronics,Earbuds,3.0,3351.84,0.0,Thanjavur,Store,Cash,10055.52,3.9
+ORD0340,2026-02-16,Electronics,Bluetooth Speaker,3.0,2554.01,0.1,Madurai,Website,Net Banking,6895.83,3.6
+ORD0341,2026-05-06,Electronics,Smart Watch,5.0,3069.38,0.05,Madurai,Mobile App,Net Banking,14579.56,4.5
+ORD0342,2026-04-19,Beauty,Sunscreen,5.0,245.15,0.05,Coimbatore,Store,Cash,1164.46,4.5
+ORD0343,2026-08-31,Sports,Football,3.0,1188.64,0.0,Trichy,Store,UPI,3565.92,3.9
+ORD0344,2026-09-01,Beauty,Lipstick,1.0,525.44,0.2,Chennai,Website,Cash,420.35,4.2
+ORD0345,2026-02-16,Clothing,Kurti,1.0,2110.89,0.1,Coimbatore,Mobile App,Card,1899.8,3.6
+ORD0346,2026-04-21,Electronics,Earbuds,1.0,3515.67,0.0,Madurai,Website,UPI,3515.67,3.6
+ORD0347,2026-09-18,Electronics,Bluetooth Speaker,1.0,1454.54,0.0,Tiruppur,Website,Net Banking,1454.54,3.8
+ORD0348,2026-08-01,Beauty,Face Wash,5.0,1077.13,0.0,Trichy,Mobile App,UPI,5385.65,3.1
+ORD0349,2026-06-10,Electronics,Bluetooth Speaker,5.0,4921.94125,0.2,Salem,Website,Net Banking,19687.76,4.2
+ORD0350,2026-08-13,Clothing,T-Shirt,4.0,1974.27,0.0,Thanjavur,Store,Cash,7897.08,3.9
+ORD0351,2026-05-05,Sports,Cricket Bat,2.0,1849.28,0.1,Tiruppur,Mobile App,Card,3328.7,3.7
+ORD0352,2026-07-10,Clothing,Kurti,4.0,1037.66,0.0,Chennai,Store,Net Banking,4150.64,4.0
+ORD0353,2026-05-12,Beauty,Lipstick,2.0,501.55,0.15,Coimbatore,Store,Net Banking,852.64,4.1
+ORD0354,2026-09-09,Electronics,Earbuds,2.0,2012.14,0.05,Thanjavur,Store,Card,3823.07,3.5
+ORD0355,2026-07-07,Beauty,Sunscreen,5.0,1051.18,0.1,Trichy,Store,UPI,4730.31,3.6
+ORD0356,2026-08-31,Electronics,Bluetooth Speaker,2.0,4921.94125,0.1,Trichy,Website,Cash,8859.49,3.5
+ORD0357,2026-05-23,Electronics,Smart Watch,2.0,4693.45,0.1,Madurai,Website,Cash,8448.21,4.8
+ORD0358,2026-05-18,Clothing,T-Shirt,3.0,2284.62,0.05,Madurai,Mobile App,Cash,6511.17,2.9
+ORD0359,2026-01-15,Home,Table Lamp,1.0,2184.62,0.1,Madurai,Mobile App,Net Banking,1966.16,3.9
+ORD0360,2026-08-04,Electronics,Earbuds,3.0,4329.65,0.05,Salem,Mobile App,UPI,12339.5,4.5
+ORD0361,2026-08-29,Sports,Football,4.0,1817.78,0.1,Madurai,Store,Cash,6544.01,3.3
+ORD0362,2026-06-06,Electronics,Earbuds,3.0,2145.67,0.05,Chennai,Store,UPI,6115.16,3.3
+ORD0363,2026-08-12,Clothing,Kurti,1.0,1014.61,0.05,Coimbatore,Store,Cash,963.88,3.3
+ORD0364,2026-04-12,Clothing,T-Shirt,5.0,734.87,0.0,Trichy,Website,Cash,3674.35,2.8
+ORD0365,2026-02-03,Sports,Yoga Mat,2.0,2872.81,0.0,Madurai,Store,Card,5745.62,4.7
+ORD0366,2026-04-22,Home,Water Bottle,5.0,1972.0,0.0,Madurai,Mobile App,Net Banking,9860.0,3.8
+ORD0367,2026-05-02,Electronics,Smart Watch,5.0,1989.11,0.0,Trichy,Store,UPI,9945.55,3.2
+ORD0368,2026-04-17,Home,Water Bottle,2.0,1927.03,0.0,Thanjavur,Website,Cash,3854.06,3.5
+ORD0369,2026-02-04,Sports,Cricket Bat,1.0,2225.22,0.0,Madurai,Mobile App,Cash,2225.22,4.0
+ORD0370,2026-09-26,Beauty,Lipstick,3.0,1690.82,0.05,Madurai,Mobile App,Net Banking,4818.84,3.7
+ORD0371,2026-03-23,Clothing,T-Shirt,1.0,914.77,0.0,Coimbatore,Store,Cash,914.77,3.3
+ORD0372,2026-04-20,Clothing,Kurti,1.0,2059.32,0.1,Madurai,Website,Cash,1853.39,4.2
+ORD0373,2026-01-15,Home,Table Lamp,1.0,480.51,0.0,Coimbatore,Store,UPI,480.51,3.3
+ORD0374,2026-04-02,Clothing,Kurti,3.0,1871.23,0.2,Thanjavur,Website,Cash,4490.95,3.7
+ORD0375,2026-06-16,Beauty,Sunscreen,2.0,1187.11,0.1,Madurai,Store,Net Banking,2136.8,4.0
+ORD0376,2026-04-29,Electronics,Bluetooth Speaker,3.0,3087.17,0.05,Thanjavur,Mobile App,UPI,8798.43,3.4
+ORD0377,2026-01-11,Sports,Yoga Mat,3.0,2565.71,0.05,Tiruppur,Store,UPI,7312.27,4.0
+ORD0378,2026-07-16,Beauty,Lipstick,4.0,805.29,0.05,Thanjavur,Mobile App,Net Banking,3060.1,3.5
+ORD0379,2026-05-21,Electronics,Smart Watch,3.0,4921.94125,0.0,Thanjavur,Mobile App,UPI,14765.82,5.0
+ORD0380,2026-09-22,Electronics,Bluetooth Speaker,2.0,4921.94125,0.15,Chennai,Mobile App,UPI,8367.3,3.6
+ORD0381,2026-06-20,Home,Table Lamp,4.0,1647.33,0.15,Tiruppur,Store,Cash,5600.92,4.3
+ORD0382,2026-05-21,Home,Water Bottle,3.0,509.82,0.05,Trichy,Store,Cash,1452.99,3.3
+ORD0383,2026-09-14,Electronics,Bluetooth Speaker,1.0,4921.94125,0.0,Chennai,Mobile App,UPI,4921.94,3.2
+ORD0384,2026-03-05,Sports,Yoga Mat,1.0,1652.63,0.05,Tiruppur,Website,Card,1570.0,3.8
+ORD0385,2026-01-31,Sports,Cricket Bat,1.0,3024.95,0.0,Madurai,Website,Card,3024.95,3.7
+ORD0386,2026-03-03,Clothing,Jeans,3.0,1024.5,0.0,Coimbatore,Website,Net Banking,3073.5,3.7
+ORD0387,2026-03-26,Electronics,Earbuds,1.0,4921.94125,0.1,Coimbatore,Store,Cash,4429.75,3.9
+ORD0388,2026-03-21,Clothing,T-Shirt,2.0,1167.6,0.0,Salem,Store,Net Banking,2335.2,4.5
+ORD0389,2026-04-08,Clothing,Kurti,4.0,749.64,0.0,Madurai,Website,Cash,2998.56,5.0
+ORD0390,2026-01-12,Home,Bedsheet,4.0,1475.69,0.15,Trichy,Website,UPI,5017.35,5.0
+ORD0391,2026-02-22,Home,Bedsheet,2.0,1007.25,0.0,Tiruppur,Website,Cash,2014.5,3.9
+ORD0392,2026-05-27,Clothing,T-Shirt,1.0,2099.94,0.15,Coimbatore,Store,Cash,1784.95,5.0
+ORD0393,2026-01-16,Sports,Cricket Bat,4.0,670.39,0.0,Salem,Store,UPI,2681.56,5.0
+ORD0394,2026-01-27,Home,Bedsheet,1.0,1555.8,0.05,Thanjavur,Mobile App,Cash,1478.01,3.5
+ORD0395,2026-07-15,Electronics,Bluetooth Speaker,1.0,3239.14,0.0,Salem,Website,Net Banking,3239.14,3.6
+ORD0396,2026-04-01,Electronics,Earbuds,2.0,4921.94125,0.05,Trichy,Store,UPI,9351.69,3.8
+ORD0397,2026-04-28,Sports,Football,4.0,2350.51,0.1,Salem,Mobile App,UPI,8461.84,5.0
+ORD0398,2026-08-29,Home,Bedsheet,1.0,1974.11,0.1,Chennai,Mobile App,UPI,1776.7,3.8
+ORD0399,2026-05-17,Clothing,Jeans,4.0,895.02,0.1,Trichy,Website,Cash,3222.07,3.7
+ORD0400,2026-01-21,Home,Water Bottle,2.0,2087.09,0.05,Tiruppur,Store,Cash,3965.47,4.8
+ORD0401,2026-03-29,Home,Water Bottle,2.0,1684.0,0.0,Chennai,Mobile App,Card,3368.0,3.8
+ORD0402,2026-03-02,Electronics,Bluetooth Speaker,4.0,2073.31,0.2,Salem,Mobile App,Net Banking,6634.59,3.8
+ORD0403,2026-05-19,Beauty,Lipstick,2.0,598.98,0.05,Thanjavur,Website,Cash,1138.06,4.2
+ORD0404,2026-05-26,Beauty,Face Wash,4.0,857.32,0.1,Tiruppur,Website,Cash,3086.35,4.0
+ORD0405,2026-08-21,Home,Bedsheet,1.0,1554.86,0.0,Coimbatore,Store,Cash,1554.86,2.3
+ORD0406,2026-07-26,Electronics,Bluetooth Speaker,2.0,4653.04,0.0,Madurai,Mobile App,Cash,9306.08,3.1
+ORD0407,2026-05-27,Clothing,T-Shirt,2.0,1957.4,0.0,Salem,Store,Card,3914.8,4.3
+ORD0408,2026-03-16,Electronics,Earbuds,2.0,1627.23,0.1,Tiruppur,Mobile App,Cash,2929.01,2.9
+ORD0409,2026-09-07,Clothing,T-Shirt,5.0,830.74,0.2,Thanjavur,Mobile App,Net Banking,3322.96,4.6
+ORD0410,2026-09-20,Sports,Football,5.0,2481.61,0.05,Coimbatore,Mobile App,Cash,11787.65,3.8
+ORD0411,2026-05-27,Home,Bedsheet,4.0,2102.03,0.1,Thanjavur,Store,Card,7567.31,4.0
+ORD0412,2026-03-13,Electronics,Bluetooth Speaker,3.0,2828.47,0.05,Trichy,Mobile App,Cash,8061.14,4.0
+ORD0413,2026-07-09,Clothing,Jeans,2.0,1361.07,0.15,Madurai,Website,Net Banking,2313.82,2.7
+ORD0414,2026-01-14,Beauty,Sunscreen,5.0,903.15,0.0,Salem,Website,UPI,4515.75,3.4
+ORD0415,2026-06-09,Electronics,Bluetooth Speaker,5.0,4921.94125,0.0,Chennai,Website,UPI,24609.71,3.2
+ORD0416,2026-08-21,Clothing,Kurti,5.0,1580.99,0.0,Madurai,Store,UPI,7904.95,4.0
+ORD0417,2026-03-04,Beauty,Face Wash,5.0,379.57,0.0,Tiruppur,Website,Net Banking,1897.85,4.8
+ORD0418,2026-02-27,Beauty,Sunscreen,4.0,446.17,0.05,Tiruppur,Mobile App,Net Banking,1695.45,3.7
+ORD0419,2026-04-08,Clothing,T-Shirt,3.0,643.97,0.15,Coimbatore,Mobile App,Cash,1642.12,3.9
+ORD0420,2026-09-23,Clothing,Jeans,1.0,1453.05,0.0,Chennai,Website,Cash,1453.05,2.6
+ORD0421,2026-08-30,Electronics,Smart Watch,4.0,4921.94125,0.0,Salem,Website,Cash,19687.76,3.6
+ORD0422,2026-08-23,Beauty,Face Wash,2.0,1506.29,0.15,Chennai,Store,UPI,2560.69,3.7
+ORD0423,2026-03-12,Electronics,Earbuds,5.0,1719.92,0.1,Chennai,Store,UPI,7739.64,3.7
+ORD0424,2026-05-12,Home,Table Lamp,1.0,1026.47,0.0,Salem,Website,Cash,1026.47,4.2
+ORD0425,2026-05-28,Clothing,Kurti,3.0,568.33,0.15,Salem,Store,Cash,1449.24,4.8
+ORD0426,2026-05-02,Home,Table Lamp,3.0,1042.21,0.1,Chennai,Mobile App,Card,2813.97,3.8
+ORD0427,2026-05-10,Electronics,Smart Watch,5.0,2764.69,0.05,Salem,Website,Card,13132.28,4.1
+ORD0428,2026-01-03,Electronics,Bluetooth Speaker,4.0,3305.02,0.15,Chennai,Website,UPI,11237.07,2.9
+ORD0429,2026-09-02,Sports,Cricket Bat,3.0,839.03,0.0,Thanjavur,Website,Net Banking,2517.09,4.2
+ORD0430,2026-04-26,Clothing,Jeans,1.0,1520.94,0.1,Chennai,Store,Card,1368.85,3.9
+ORD0431,2026-08-22,Home,Water Bottle,1.0,1272.71,0.05,Chennai,Store,UPI,1209.07,2.7
+ORD0432,2026-01-01,Beauty,Face Wash,4.0,744.78,0.15,Chennai,Store,Card,2532.25,4.1
+ORD0433,2026-08-24,Beauty,Sunscreen,3.0,781.83,0.05,Salem,Store,Cash,2228.22,3.4
+ORD0434,2026-04-27,Electronics,Earbuds,2.0,4921.94125,0.05,Thanjavur,Website,UPI,9351.69,4.5
+ORD0435,2026-01-18,Electronics,Smart Watch,2.0,4316.79,0.0,Tiruppur,Mobile App,Net Banking,8633.58,4.2
+ORD0436,2026-09-09,Home,Table Lamp,1.0,2175.63,0.1,Madurai,Website,Cash,1958.07,3.9
+ORD0437,2026-05-20,Electronics,Bluetooth Speaker,1.0,3113.24,0.0,Tiruppur,Mobile App,UPI,3113.24,5.0
+ORD0438,2026-04-19,Beauty,Face Wash,1.0,950.5,0.0,Chennai,Website,Net Banking,950.5,3.8
+ORD0439,2026-03-14,Clothing,Kurti,4.0,1152.98,0.0,Tiruppur,Mobile App,Card,4611.92,3.7
+ORD0440,2026-08-13,Electronics,Earbuds,5.0,1652.46,0.1,Tiruppur,Website,UPI,7436.07,3.9
+ORD0441,2026-09-24,Beauty,Lipstick,4.0,1644.12,0.0,Tiruppur,Website,UPI,6576.48,3.9
+ORD0442,2026-05-04,Sports,Yoga Mat,4.0,2751.92,0.0,Madurai,Store,Net Banking,11007.68,3.3
+ORD0443,2026-01-23,Sports,Cricket Bat,5.0,1296.79,0.2,Chennai,Mobile App,Net Banking,5187.16,4.2
+ORD0444,2026-07-01,Electronics,Bluetooth Speaker,5.0,4921.94125,0.05,Madurai,Store,Cash,23379.22,4.1
+ORD0445,2026-03-02,Home,Bedsheet,5.0,1832.77,0.1,Madurai,Store,UPI,8247.46,3.5
+ORD0446,2026-07-28,Beauty,Sunscreen,4.0,977.64,0.05,Coimbatore,Store,Net Banking,3715.03,2.9
+ORD0447,2026-01-28,Sports,Yoga Mat,3.0,1421.43,0.1,Tiruppur,Website,Cash,3837.86,4.6
+ORD0448,2026-06-13,Beauty,Sunscreen,1.0,1593.05,0.1,Chennai,Mobile App,Card,1433.74,4.7
+ORD0449,2026-03-16,Beauty,Face Wash,5.0,1449.26,0.1,Salem,Website,Net Banking,6521.67,4.5
+ORD0450,2026-03-09,Sports,Cricket Bat,4.0,3121.42,0.15,Chennai,Website,UPI,10612.83,4.5
+ORD0451,2026-03-12,Home,Bedsheet,1.0,1607.34,0.1,Tiruppur,Mobile App,UPI,1446.61,5.0
+ORD0452,2026-05-02,Home,Bedsheet,1.0,1708.14,0.2,Trichy,Store,UPI,1366.51,4.1
+ORD0453,2026-02-27,Beauty,Lipstick,5.0,1082.03,0.15,Thanjavur,Store,UPI,4598.63,5.0
+ORD0454,2026-05-18,Clothing,Jeans,2.0,1276.72,0.05,Chennai,Store,Cash,2425.77,3.8
+ORD0455,2026-05-18,Home,Bedsheet,3.0,809.01,0.1,Salem,Website,Card,2184.33,3.4
+ORD0456,2026-06-16,Beauty,Lipstick,2.0,1413.39,0.0,Trichy,Website,Net Banking,2826.78,3.9
+ORD0457,2026-03-31,Home,Table Lamp,4.0,2089.36,0.1,Thanjavur,Store,Cash,7521.7,3.7
+ORD0458,2026-09-25,Electronics,Smart Watch,3.0,3995.25,0.0,Tiruppur,Website,Card,11985.75,4.2
+ORD0459,2026-03-27,Beauty,Sunscreen,5.0,1027.73,0.1,Madurai,Website,Cash,4624.78,5.0
+ORD0460,2026-02-08,Home,Table Lamp,1.0,1291.5,0.05,Tiruppur,Website,UPI,1226.92,4.2
+ORD0461,2026-06-23,Clothing,T-Shirt,3.0,1441.2,0.15,Salem,Website,Net Banking,3675.06,4.6
+ORD0462,2026-03-23,Electronics,Earbuds,1.0,1877.39,0.1,Thanjavur,Mobile App,UPI,1689.65,5.0
+ORD0463,2026-03-26,Sports,Football,4.0,1221.38,0.2,Salem,Website,UPI,3908.42,5.0
+ORD0464,2026-09-01,Electronics,Smart Watch,4.0,4893.72,0.1,Coimbatore,Mobile App,Cash,17617.39,4.0
+ORD0465,2026-08-11,Clothing,Kurti,1.0,2050.35,0.0,Chennai,Website,Card,2050.35,3.5
+ORD0466,2026-01-29,Electronics,Earbuds,5.0,4825.13,0.05,Coimbatore,Website,UPI,22919.37,5.0
+ORD0467,2026-03-14,Electronics,Bluetooth Speaker,2.0,1579.34,0.15,Thanjavur,Mobile App,Card,2684.88,3.3
+ORD0468,2026-02-06,Home,Table Lamp,3.0,793.91,0.0,Thanjavur,Mobile App,Cash,2381.73,2.8
+ORD0469,2026-01-26,Home,Water Bottle,3.0,1219.08,0.0,Chennai,Mobile App,Net Banking,3657.24,2.7
+ORD0470,2026-01-19,Home,Table Lamp,3.0,1342.85,0.15,Salem,Mobile App,UPI,3424.27,4.7
+ORD0471,2026-06-10,Electronics,Bluetooth Speaker,2.0,1779.88,0.1,Salem,Website,Card,3203.78,3.0
+ORD0472,2026-04-22,Clothing,Jeans,1.0,1438.36,0.1,Thanjavur,Mobile App,UPI,1294.52,3.8
+ORD0473,2026-07-03,Clothing,Jeans,2.0,2406.03,0.1,Thanjavur,Mobile App,Card,4330.85,3.9
+ORD0474,2026-07-11,Home,Water Bottle,1.0,1767.7,0.05,Thanjavur,Website,Net Banking,1679.32,4.8
+ORD0475,2026-02-25,Beauty,Sunscreen,2.0,1497.26,0.05,Tiruppur,Store,Card,2844.79,3.1
+ORD0476,2026-08-29,Beauty,Lipstick,1.0,332.52,0.1,Madurai,Store,Cash,299.27,4.0
+ORD0477,2026-03-08,Home,Table Lamp,4.0,1321.57,0.05,Thanjavur,Website,Card,5021.97,4.2
+ORD0478,2026-06-10,Clothing,Kurti,1.0,2312.41,0.0,Salem,Website,Cash,2312.41,4.9
+ORD0479,2026-07-30,Home,Table Lamp,1.0,1838.69,0.05,Madurai,Store,UPI,1746.76,3.8
+ORD0480,2026-02-01,Beauty,Sunscreen,5.0,564.35,0.0,Madurai,Mobile App,UPI,2821.75,4.1
+ORD0481,2026-09-29,Clothing,Kurti,1.0,605.54,0.0,Thanjavur,Mobile App,UPI,605.54,3.8
+ORD0482,2026-06-23,Sports,Cricket Bat,1.0,1224.5,0.1,Thanjavur,Store,UPI,1102.05,4.7
+ORD0483,2026-06-16,Clothing,Kurti,4.0,1031.87,0.0,Chennai,Mobile App,Net Banking,4127.48,4.6
+ORD0484,2026-06-02,Sports,Football,5.0,2666.38,0.0,Trichy,Mobile App,Cash,13331.9,3.7
+ORD0485,2026-06-05,Electronics,Earbuds,2.0,4512.98,0.0,Madurai,Store,Card,9025.96,4.3
+ORD0486,2026-07-27,Electronics,Smart Watch,4.0,3968.71,0.15,Chennai,Mobile App,Net Banking,13493.61,3.0
+ORD0487,2026-06-06,Home,Table Lamp,4.0,1282.65,0.15,Tiruppur,Website,Cash,4361.01,4.0
+ORD0488,2026-01-13,Electronics,Bluetooth Speaker,2.0,4921.94125,0.1,Thanjavur,Website,Cash,8859.49,3.4
+ORD0489,2026-03-21,Home,Table Lamp,5.0,452.25,0.1,Chennai,Website,UPI,2035.12,3.7
+ORD0490,2026-01-13,Electronics,Bluetooth Speaker,4.0,3554.21,0.05,Thanjavur,Store,UPI,13506.0,4.6
+ORD0491,2026-01-17,Electronics,Earbuds,3.0,3523.79,0.15,Chennai,Mobile App,Cash,8985.66,5.0
+ORD0492,2026-06-24,Clothing,T-Shirt,3.0,2364.02,0.0,Thanjavur,Website,Card,7092.06,4.1
+ORD0493,2026-07-07,Beauty,Lipstick,5.0,493.41,0.1,Thanjavur,Website,UPI,2220.35,3.9
+ORD0494,2026-02-16,Clothing,Kurti,1.0,762.07,0.15,Trichy,Mobile App,Net Banking,647.76,3.8
+ORD0495,2026-07-22,Sports,Cricket Bat,2.0,819.35,0.1,Coimbatore,Store,Card,1474.83,4.5
+ORD0496,2026-08-29,Electronics,Bluetooth Speaker,5.0,3506.93,0.15,Salem,Store,Cash,14904.45,3.9
+ORD0497,2026-04-24,Electronics,Earbuds,4.0,1237.01,0.1,Madurai,Store,Net Banking,4453.24,4.6
+ORD0498,2026-08-05,Beauty,Lipstick,3.0,1629.41,0.05,Trichy,Mobile App,Net Banking,4643.82,5.0
+ORD0499,2026-01-05,Clothing,Jeans,2.0,2143.66,0.1,Tiruppur,Mobile App,UPI,3858.59,4.4
+ORD0500,2026-02-19,Electronics,Earbuds,4.0,4921.94125,0.05,Salem,Mobile App,Card,18703.38,3.7
